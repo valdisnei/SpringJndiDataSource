@@ -1,0 +1,4 @@
+create or replace PROCEDURE TESTE_FLYWAY()
+BEGIN
+END;
+/
